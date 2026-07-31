@@ -1,0 +1,11 @@
+E:\CP PROJECT\snakeconsole\snakeconsole\bin\Debug\snakeconsole.exe.config
+E:\CP PROJECT\snakeconsole\snakeconsole\bin\Debug\snakeconsole.exe
+E:\CP PROJECT\snakeconsole\snakeconsole\bin\Debug\snakeconsole.pdb
+E:\CP PROJECT\snakeconsole\snakeconsole\obj\Debug\snakeconsole.csproj.AssemblyReference.cache
+E:\CP PROJECT\snakeconsole\snakeconsole\obj\Debug\snakeconsole.csproj.CoreCompileInputs.cache
+E:\CP PROJECT\snakeconsole\snakeconsole\obj\Debug\snakeconsole.exe
+E:\CP PROJECT\snakeconsole\snakeconsole\obj\Debug\snakeconsole.pdb
+E:\CP PROJECT\snakeconsole\snakeconsole\bin\Debug\snakeconsole.exe.manifest
+E:\CP PROJECT\snakeconsole\snakeconsole\bin\Debug\snakeconsole.application
+E:\CP PROJECT\snakeconsole\snakeconsole\obj\Debug\snakeconsole.exe.manifest
+E:\CP PROJECT\snakeconsole\snakeconsole\obj\Debug\snakeconsole.application
